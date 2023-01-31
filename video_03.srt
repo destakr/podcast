@@ -1,0 +1,449 @@
+1
+00:00:00,450 --> 00:00:03,760
+Revolución hoy Microsoft y Open.
+
+2
+00:00:03,780 --> 00:00:06,570
+Hay unas fuerzas para cambiar el mundo.
+
+3
+00:00:07,620 --> 00:00:13,950
+La tecnología de inteligencia artificial ya
+está cambiando el mundo a medida que las
+
+4
+00:00:13,950 --> 00:00:18,690
+empresas buscan formas de mejorar sus
+productos y servicios.
+
+5
+00:00:19,350 --> 00:00:24,960
+Una de estas empresas líderes de la IA es
+Microsoft, que acaba de anunciar una
+
+6
+00:00:24,960 --> 00:00:30,290
+inversión multianual y multimillonaria en la
+IA al extender sus cosas.
+
+7
+00:00:30,360 --> 00:00:37,080
+Su asociación con Open ahí opera y es el
+creador de la herramienta popular de
+
+8
+00:00:37,080 --> 00:00:43,350
+generación de la de imágenes Dolly y el chat
+bot Chat GPP.
+
+9
+00:00:43,980 --> 00:00:51,150
+En 2019, Microsoft invirtió 1 mil millones
+en la compañía fundada por Elon Musk y el
+
+10
+00:00:51,150 --> 00:00:53,970
+inversor tecnológico Sam Altman.
+
+11
+00:00:54,930 --> 00:01:02,430
+La compañía de Windows diez Bots planea
+despedirá hasta 10.000 empleadores, pero aún
+
+12
+00:01:02,430 --> 00:01:06,630
+así contratará en áreas estratégicas claves.
+
+13
+00:01:07,740 --> 00:01:09,160
+¿Qué opinas sobre este tema?
+
+14
+00:01:09,180 --> 00:01:10,800
+Escríbanos aquí en la descripción.
+
+15
+00:01:10,800 --> 00:01:13,290
+No te olvides de suscribirte en nuestro
+canal.
+
+16
+00:01:13,860 --> 00:01:20,550
+Tengo sed y activa la campanita, la
+campanita de notificaciones para que estés al
+
+17
+00:01:20,550 --> 00:01:22,620
+día con nuestra noticias.
+
+18
+00:01:24,300 --> 00:01:29,940
+Bueno, al anunciar la extensión de la
+asociación, la empresa dijo que creía que la
+
+19
+00:01:29,940 --> 00:01:36,210
+IA tendría un impacto de más de magnitud de
+la computadora personal, Internet,
+
+20
+00:01:36,210 --> 00:01:38,340
+dispositivos móviles y la nube.
+
+21
+00:01:39,250 --> 00:01:45,510
+Escuchar el perfil de Open EU es capaz de
+proporcionar respuestas convincentes y
+
+22
+00:01:45,510 --> 00:01:47,280
+humanas a preguntas.
+
+23
+00:01:48,810 --> 00:01:55,530
+La especulación sobre el posible uso
+indebido de la tecnología, desde ayudar a los
+
+24
+00:01:55,530 --> 00:02:01,860
+estudiantes a tramposos a los exámenes hasta
+escribir malware, ha ido de la mano con
+
+25
+00:02:01,860 --> 00:02:08,100
+sugerencias de que tiene el potencial de
+revolucionar muchas industrias, incluyendo la
+
+26
+00:02:08,100 --> 00:02:15,960
+búsqueda. Microsoft posee el motor de
+búsqueda móvil y aunque está por detrás de
+
+27
+00:02:15,960 --> 00:02:22,140
+Google en popularidad, algunos sugiere que
+el chat GPP representa una amenaza para el
+
+28
+00:02:22,140 --> 00:02:30,060
+líder del sector. La New York Times informó
+que ha llegado a Google a declarar un código
+
+29
+00:02:30,060 --> 00:02:36,660
+rojo debido al temor de que permita a los
+competidores comer en el negocio de la
+
+30
+00:02:36,660 --> 00:02:41,910
+búsqueda de 140 mil millones de dólares de
+la empresa.
+
+31
+00:02:43,260 --> 00:02:48,450
+Ue ha retenido anteriormente algunos
+sistemas de guía para su uso público.
+
+32
+00:02:48,960 --> 00:02:55,800
+La empresa ha citado desafíos éticos como
+razón para no lanzar su sistema.
+
+33
+00:02:55,800 --> 00:02:57,120
+Generación de imágenes.
+
+34
+00:02:58,470 --> 00:03:07,550
+Imagen. Los investigadores dijeron que
+existía el riesgo de que el sistema
+
+35
+00:03:08,150 --> 00:03:14,210
+entrenado con datos extraídos de la web,
+aprendiera estereotipos y representaciones
+
+36
+00:03:14,240 --> 00:03:22,670
+dañinas. Microsoft dijo que estaba
+comprometida a construir sistemas y productos
+
+37
+00:03:22,670 --> 00:03:24,530
+de guía confiables y seguros.
+
+38
+00:03:25,700 --> 00:03:29,450
+Hay que ver la alianza entre Microsoft y
+Open.
+
+39
+00:03:29,960 --> 00:03:31,250
+Eu es una.
+
+40
+00:03:31,340 --> 00:03:35,570
+Es un gran paso adelante en el mundo de la
+inteligencia artificial.
+
+41
+00:03:36,670 --> 00:03:42,380
+¿Pero qué significa eso para nosotros, los
+usuarios comunes?
+
+42
+00:03:43,010 --> 00:03:48,800
+Bueno, para empezar, significa que pronto
+podremos interactuar con sistemas de IA de
+
+43
+00:03:48,800 --> 00:03:50,600
+una manera más natural y fluida.
+
+44
+00:03:51,290 --> 00:03:57,230
+¿Como ya está en Chapultepec, te imaginas
+preguntarle a tu computadora sobre el tiempo
+
+45
+00:03:57,230 --> 00:04:01,490
+y recibir una respuesta completa en lugar de
+solo una temperatura?
+
+46
+00:04:02,420 --> 00:04:09,500
+O pedirle a tu teléfono que te muestre una
+imagen de un unicornio y recibir una imagen
+
+47
+00:04:09,500 --> 00:04:11,000
+realista en lugar de un dibujo.
+
+48
+00:04:12,370 --> 00:04:15,130
+¿Todo eso y más será posible gracias a esta
+alianza?
+
+49
+00:04:15,820 --> 00:04:18,940
+Es más, hoy en día ya existen softwares que
+hacen eso.
+
+50
+00:04:20,050 --> 00:04:23,980
+Primero los comentaré si desean ver algunos
+ejemplos de esto.
+
+51
+00:04:24,970 --> 00:04:29,890
+Pero la guía no sólo será más fácil de usar,
+también será más útil.
+
+52
+00:04:30,730 --> 00:04:37,810
+Imagine un futuro en el que su coche puede
+conducir solo gracias a la guía, o un futuro
+
+53
+00:04:38,620 --> 00:04:45,730
+o un futuro que en en su médico pueda
+diagnosticar enfermedades como con mayor
+
+54
+00:04:45,730 --> 00:04:49,900
+precisión. Gracias a la guía, la guía
+también será capaz de analizar grandes
+
+55
+00:04:49,900 --> 00:04:53,800
+cantidades de datos y ayudar a las empresas
+a tomar decisiones más informadas.
+
+56
+00:04:54,340 --> 00:05:01,720
+Sin embargo, también es importante mencionar
+que con el aumento de la guía, es crucial que
+
+57
+00:05:01,720 --> 00:05:07,480
+nos aseguremos de que la tecnología sea
+utilizada de manera ética y responsable.
+
+58
+00:05:08,140 --> 00:05:14,050
+Microsoft y Open EU han declarado su
+compromiso de construir sistemas y productos
+
+59
+00:05:14,050 --> 00:05:16,150
+de hoy confiables y seguros.
+
+60
+00:05:18,810 --> 00:05:24,480
+Y esperamos que otros también tomen medidas
+para garantizar que la guía no se utilice
+
+61
+00:05:24,480 --> 00:05:26,820
+para casos para causar daños.
+
+62
+00:05:28,110 --> 00:05:35,010
+En resumen, la alianza entre Microsoft y
+Open EU es emocionante y no solo por lo que
+
+63
+00:05:35,010 --> 00:05:39,990
+significa para el futuro de la tecnología,
+sino también por lo que significa para
+
+64
+00:05:39,990 --> 00:05:41,130
+nuestra vida diaria.
+
+65
+00:05:42,360 --> 00:05:48,750
+Estamos ansiosos por ver como esta alianza
+se desarrolla y como la IA cambia nuestro
+
+66
+00:05:48,750 --> 00:05:51,140
+mundo. ¿No?
+
+67
+00:05:51,180 --> 00:05:56,470
+No olvides suscribirse al canal inocente
+para estar al día con las últimas noticias y
+
+68
+00:05:56,470 --> 00:05:58,330
+actualizaciones en el mundo de la
+tecnología.
+
+69
+00:05:59,680 --> 00:06:05,500
+Sparrow versus Chaz, jefe de la Batalla de
+los Gigantes de la Inteligencia Artificial.
+
+70
+00:06:06,760 --> 00:06:11,860
+El mundo de la teoría de la Inteligencia
+Artificial está en constante evolución.
+
+71
+00:06:12,310 --> 00:06:19,660
+Dos de los nombres más destacados en este
+campo son Sharp y Sparrow Sharp, desarrollado
+
+72
+00:06:19,660 --> 00:06:26,110
+por Opel hoy. Es un es el modelo lingüístico
+más grande disponible públicamente.
+
+73
+00:06:26,470 --> 00:06:30,700
+Mientras que Sparrow Sparrow fue presentado
+por Google.
+
+74
+00:06:30,820 --> 00:06:34,580
+Se enfoca en la seguridad y evita respuestas
+poco precisas.
+
+75
+00:06:34,600 --> 00:06:43,000
+El lanzamiento del Charger ha generado mucha
+expectación en el mundo tecnológico, pero no
+
+76
+00:06:43,000 --> 00:06:49,690
+ha gustado nada a Google, quien se ha visto
+adelantada por la derecha y ha dado prisa en
+
+77
+00:06:49,690 --> 00:06:58,090
+prestar. Sparrow y Sparrow Sparrow se
+construyó con el objetivo de reducir el
+
+78
+00:06:58,090 --> 00:07:04,810
+riesgo de respuestas poco concretas o
+prejuiciosas, mejorando así la predicción de
+
+79
+00:07:04,810 --> 00:07:11,200
+su contenido. Una de las grandes ventajas de
+Sparrow es que podrá citar fuentes de
+
+80
+00:07:11,200 --> 00:07:16,780
+información, lo que permite saber
+exactamente de dónde ha sacado la respuesta y
+
+81
+00:07:16,780 --> 00:07:20,260
+se pudo confiar en ella y si se puede
+confiar en ella.
+
+82
+00:07:23,620 --> 00:07:29,070
+Sospechas que el PP aún no cuenta con
+medidas de seguridad como Sparrow, pero
+
+83
+00:07:29,070 --> 00:07:32,100
+Microsoft ha afirmado que está trabajando en
+ello.
+
+84
+00:07:33,180 --> 00:07:40,890
+La versión F4 podría incluir mejoras en las
+capacidades lingüísticas y el rendimiento de
+
+85
+00:07:40,890 --> 00:07:47,250
+varias áreas SAP ofrecen un rendimiento más
+rápido en términos de tiempo de respuesta y
+
+86
+00:07:47,250 --> 00:07:55,050
+precisión, mientras que el objeto de Sparrow
+es incluir medidas de seguridad más top para
+
+87
+00:07:55,050 --> 00:08:01,470
+ofrecer respuestas seguras y una privacidad
+diferencial para proteger los datos de los
+
+88
+00:08:01,470 --> 00:08:09,520
+usuarios. Con Microsoft y Google impulsando
+sus respectivas tecnologías de inteligencia
+
+89
+00:08:09,520 --> 00:08:14,290
+artificial, el futuro se presentará más
+brillante para el sector.
+
+90
+00:08:15,820 --> 00:08:21,370
+¿Qué opinas? Déjanos tu opinión abajo en la
+descripción.
+
+91
+00:08:22,570 --> 00:08:30,250
+No olvides suscribirte a no ser dale me
+gusta si te gusta y activa la campanita de
+
+92
+00:08:30,250 --> 00:08:33,250
+notificaciones para que no te pierdas de los
+próximos vídeo.
+
+93
+00:08:34,330 --> 00:08:36,100
+Hasta luego. Está muy bien.
+
+94
+00:08:36,370 --> 00:08:37,600
+Hasta el próximo video. Chao.
